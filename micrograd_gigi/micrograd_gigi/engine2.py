@@ -35,7 +35,6 @@ e = c + d
 e.grad = 1.0
 e._backward()
 d._backward()
-dd / dc 
 
 
 print(e , 'e')
